@@ -47,7 +47,7 @@ $cashonhand = 10; // float
 // echo "$fname is $age years old";
 // echo "<br>";
 echo $fname - ' is ' , $age . 'years old';
-echo n12br("\n$fname is $age years old");
+echo nl2br("\n$fname is $age years old");
 
 //Arithmetic Operators
 echo " <br>";
